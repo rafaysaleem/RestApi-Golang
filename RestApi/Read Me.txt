@@ -1,0 +1,3 @@
+-Please run the server.go file first. It will create the database and save photos and info from dribbble api automatically. And will start the server at localhost 8080
+
+- After that you can change the sampleSearch string in the client.go to query different values. Or you can pass a string value to the key "var" in the url while calling the local host to run a query and see the results in json format.   
